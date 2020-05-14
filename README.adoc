@@ -7,7 +7,7 @@ podman system service --timeout 0 tcp:localhost:9999
 ----
 
 2. run:
-.
++
 [source,shell]
 ----
 ./mvnw clean compile exec:exec
